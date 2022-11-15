@@ -47,7 +47,8 @@ from decouple import config
 SECRET_KEY = config('SECRET_KEY')
 ```
 
-go to terminal
+
+go to terminal 
 
 ```bash
 py manage.py migrate
