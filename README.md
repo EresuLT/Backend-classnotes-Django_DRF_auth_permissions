@@ -25,6 +25,7 @@ django-admin --version
 django-admin startproject main .
 ```
 
+
 ## gitignore
 
 add a gitignore file at same level as env folder, and check that it includes .env and /env lines
